@@ -2,7 +2,7 @@
 
 ## Preinformation
 
-I assume that you have already rooted your asus zenfone 6 and you know what you are doing. The manual is no guarantee that it works and errors can occur. It is all at your own risk. You need root permissions for the script. The script will delete all google apps before you install it.
+I assume that you have already rooted your asus zenfone 6 and you know what you are doing. The manual is no guarantee that it works and errors can occur. It is all at your own risk. You need root permissions for the script. The script will delete all google apps which are preinstalled from the stock rom.
 
 List of google apps:
 
@@ -20,7 +20,7 @@ List of google apps:
 
 ## Installation Steps
 
-1. Download Zip from the official ASUS website
+1. Download Zip from the official ASUS website\
 &rightarrow; <https://www.asus.com/us/Phone/ZenFone-6-ZS630KL/HelpDesk_BIOS/>
 2. Reboot in recovery mode
    > you can do this with adb `adb reboot recovery`
