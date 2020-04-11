@@ -29,9 +29,9 @@ List of google apps:
    &rightarrow; You really need to follow the right installation order!
 
    1. `ASUS-Update-Zip`
-   1. `TWRP-Zip`
-   2. `Magisk-Zip`
+   2. `TWRP-Zip`
    3. `Magisk-Zip`
+   4. `Magisk-Zip`
 
    > Yes, you need to flash the `Magisk-Zip` twice because of the system structure. Android has a new update system structure with two boot partition slots (A/B). At the first run you just installed it in the activated slot (maybe A) but this is now changed due the update. In the second run magisk is installing in the none active slot (maybe B) which also the update resides.
 6. Reboot
