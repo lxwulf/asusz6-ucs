@@ -33,6 +33,6 @@ List of google apps:
    3. `Magisk-Zip`
    4. `Magisk-Zip`
 
-   > Yes, you need to flash the `Magisk-Zip` twice because of the system structure. Android has a new update system structure with two boot partition slots (A/B). At the first run you just installed it in the activated slot (maybe A) but this is now changed due the update. In the second run magisk is installing in the none active slot (maybe B) which also the update resides.
+   > Yes, you need to flash the `Magisk-Zip` twice because of the system structure. Android has a new update system structure with two boot partition slots (A/B). At the first run you just installed it in the activated slot (maybe A) but this is now changed due the update.This means when you would reboot the installed magisk doesnt appear beause it is in the other slot installed and not in this one which is booted. In the second run magisk is installing in the none active slot (maybe B) which also the update resides.
 6. Reboot
 7. Remove all apps you didnt want from the google apps package.
